@@ -1,5 +1,10 @@
 /* stylelint-disable @stylistic/selector-list-comma-newline-after */
 
+.navbar-nav .nav-link:hover {
+    font-weight: bolder;
+    color: green;
+}
+
 .blog-header-logo {
     font-family: "Playfair Display", Georgia, "Times New Roman",
         serif /*rtl:Amiri, Georgia, "Times New Roman", serif*/;
